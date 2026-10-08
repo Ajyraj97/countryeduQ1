@@ -1,0 +1,10 @@
+Metric,Value
+Tickets in demonstration dataset,200000.0
+Annualized ticket volume in case,2000000.0
+Total modeled support cost (sample),12683068.708899999
+Average cost per ticket,63.73241229567096
+Average resolution time (hours),1.891572
+Escalation rate,0.12858
+Average CSAT,4.5598575
+Target CSAT,4.2
+Target cost reduction,0.2

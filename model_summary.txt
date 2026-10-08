@@ -1,0 +1,10 @@
+Escalation prediction model
+Algorithm: Logistic Regression with one-hot categorical features
+Rows used: 200,000
+Train rows: 160,000
+Test rows: 40,000
+ROC-AUC: 0.720
+
+Interpretation:
+The model is intended as a fast triage model, not a final autonomous decision-maker.
+For production, calibrate probabilities, monitor drift, and evaluate latency under load.
